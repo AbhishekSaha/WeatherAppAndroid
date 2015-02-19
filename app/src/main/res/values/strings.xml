@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AbhishekWeatherApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="splash">Abhishek\'s Weather App!</string>
+    <string name="AS">By Abhishek Saha</string>
+    <string name="cit">Weather provided by WorldWeatherOnline\.com"</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="current">Current</string>
+    <string name="five">5 Day</string>
+    <string name="retrieving">Retrieving Weather Data, try Five Day Forecast</string>
+</resources>
